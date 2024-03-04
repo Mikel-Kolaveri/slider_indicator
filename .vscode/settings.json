@@ -1,0 +1,8 @@
+{
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "cSpell.enabled": false,
+  "window.zoomLevel": 0.60,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  }
+}
